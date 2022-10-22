@@ -1,0 +1,5 @@
+name: Jeapi Api
+version: '${project.version}'
+main: ru.popis.jeapiapi.Main
+api-version: 1.18
+load: STARTUP
